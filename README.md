@@ -1,5 +1,9 @@
 # Voice-to-Voice-AI-Assistant
 
+
+https://github.com/user-attachments/assets/4c80b5c9-64ad-47cf-88c5-020aa701a598
+
+
 # Project Overview
 This project implements a Voice-to-Voice AI Assistant using Python.
 The assistant receives spoken input from the user, converts it into text, sends the text to a Large Language Model (Google Gemini), then converts the generated response back into speech.
