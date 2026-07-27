@@ -1,9 +1,6 @@
-[Uploading Video Project.clipchamp…]()
 # Voice-to-Voice-AI-Assistant
 
-
 # Project Overview
-
 This project implements a Voice-to-Voice AI Assistant using Python.
 The assistant receives spoken input from the user, converts it into text, sends the text to a Large Language Model (Google Gemini), then converts the generated response back into speech.
 
