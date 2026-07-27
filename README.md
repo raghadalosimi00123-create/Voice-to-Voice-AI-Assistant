@@ -53,11 +53,6 @@ This design also provides additional advantages such as:
 - Ability to replay recordings.
 - Saving conversations if needed.
 - Better compatibility with speech recognition models.
-# Installation
-
-Install the required libraries:
-
-pip install -r requirements.txt
 
 # API Configuration
 Create a .env file and add your Gemini API key:
