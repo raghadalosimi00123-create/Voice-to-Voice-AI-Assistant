@@ -1,5 +1,4 @@
 # Voice-to-Voice-AI-Assistant
-## Demo
 
 # Project Overview
 This project implements a Voice-to-Voice AI Assistant using Python.
